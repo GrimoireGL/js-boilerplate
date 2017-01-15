@@ -1,6 +1,6 @@
 {
     "name": "grimoirejs-js-boilerplate",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "The boilerplate project for making plugin of grimoire.js.",
     "main": "index.js",
     "files": [
