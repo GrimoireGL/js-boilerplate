@@ -1,4 +1,4 @@
-## Typescript project boilerplate for grimoirejs
+## ES6 project boilerplate for grimoirejs
 
 This project provides you a simple starting point to make a plugin for [Grimoire.js](https://grimoire.gl).
 
