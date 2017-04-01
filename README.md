@@ -1,5 +1,7 @@
 ## ES6 project boilerplate for grimoirejs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/GrimoireGL/js-boilerplate.svg)](https://greenkeeper.io/)
+
 This project provides you a simple starting point to make a plugin for [Grimoire.js](https://grimoire.gl).
 
 You don't need to know what this project do for a plugin suitable to grimoire.js. However, you can refer [the plugin specification(Currently written in only japanese.)](https://grimoire.gl/guide/plugin-specification.html)
